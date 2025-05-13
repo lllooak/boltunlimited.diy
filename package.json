@@ -206,3 +206,8 @@
   },
   "packageManager": "pnpm@9.4.0"
 }
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "start": "vite preview"
+}
